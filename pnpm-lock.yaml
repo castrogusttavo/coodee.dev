@@ -12,8 +12,8 @@ importers:
         specifier: 4.1.11
         version: 4.1.11
       dotenv:
-        specifier: 17.0.1
-        version: 17.0.1
+        specifier: 17.2.2
+        version: 17.2.2
       fs:
         specifier: 0.0.1-security
         version: 0.0.1-security
@@ -720,8 +720,8 @@ packages:
     resolution: {integrity: sha512-QM8q3zDe58hqUqjraQOmzZ1LIH9SWQJTlEKCH4kJ2oQvLZk7RbQXvtDM2XEq3fwkV9CCvvH4LA0AV+ogFsBM2Q==}
     engines: {node: '>=8'}
 
-  dotenv@17.0.1:
-    resolution: {integrity: sha512-GLjkduuAL7IMJg/ZnOPm9AnWKJ82mSE2tzXLaJ/6hD6DhwGfZaXG77oB8qbReyiczNxnbxQKyh0OE5mXq0bAHA==}
+  dotenv@17.2.2:
+    resolution: {integrity: sha512-Sf2LSQP+bOlhKWWyhFsn0UsfdK/kCWRv1iuA2gXAwt3dyNabr6QSj00I2V10pidqz69soatm9ZwZvpQMTIOd5Q==}
     engines: {node: '>=12'}
 
   electron-to-chromium@1.5.128:
@@ -1935,7 +1935,7 @@ snapshots:
     dependencies:
       is-obj: 2.0.0
 
-  dotenv@17.0.1: {}
+  dotenv@17.2.2: {}
 
   electron-to-chromium@1.5.128: {}
 
